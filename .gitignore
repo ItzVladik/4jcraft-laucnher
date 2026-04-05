@@ -1,0 +1,4 @@
+gen/
+bin/
+*.o
+scripts/__pycache__/
